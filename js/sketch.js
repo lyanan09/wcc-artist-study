@@ -6,7 +6,7 @@ let cnv;
 
 function preload() {
   for (var i = 1; i <= cy; i++) {
-    let img = loadImage("../images/img_" + i + ".jpg");
+    let img = loadImage("./images/img_" + i + ".jpg");
     imgList.push(img);
   }
 }
