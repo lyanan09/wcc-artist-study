@@ -12,7 +12,7 @@ function preload() {
 }
 
 function setup() {
-  cnv = createCanvas(600, 600);
+  cnv = createCanvas(500, 500);
   responsiveCanvas();
   imageMode(CORNERS);
 }

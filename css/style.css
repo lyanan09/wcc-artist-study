@@ -6,3 +6,8 @@ canvas {
   display: block;
   margin: auto;
 }
+header a {
+  /* color: white; */
+  padding: 10px 16px;
+  display: inline-block;
+}
